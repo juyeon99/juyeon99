@@ -1,13 +1,13 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
 
-### 👋👋
+### 👋 Hey there! 👋
 
 ![stats](https://github-readme-stats.vercel.app/api?username=juyeon99&theme=blue-green)
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juyeon99&theme=blue-green)
 
 <!-- [github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)-->
 
-### Skills that I have used or learned 🚀
+### 🚀 Skills that I have used or learned 🚀
 ![skills](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![skills](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,6 +20,8 @@
 ![skills](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![skills](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![skills](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+![](./profile-3d-contrib/profile-green-animate.svg)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=footer&text=&fontSize=0" width="100%"/>
 
